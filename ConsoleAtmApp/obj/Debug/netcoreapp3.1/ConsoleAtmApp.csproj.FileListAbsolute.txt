@@ -1,0 +1,14 @@
+C:\Users\90553\source\repos\Veri_Uyg\ConsoleAtmApp\bin\Debug\netcoreapp3.1\ConsoleAtmApp.exe
+C:\Users\90553\source\repos\Veri_Uyg\ConsoleAtmApp\bin\Debug\netcoreapp3.1\ConsoleAtmApp.deps.json
+C:\Users\90553\source\repos\Veri_Uyg\ConsoleAtmApp\bin\Debug\netcoreapp3.1\ConsoleAtmApp.runtimeconfig.json
+C:\Users\90553\source\repos\Veri_Uyg\ConsoleAtmApp\bin\Debug\netcoreapp3.1\ConsoleAtmApp.runtimeconfig.dev.json
+C:\Users\90553\source\repos\Veri_Uyg\ConsoleAtmApp\bin\Debug\netcoreapp3.1\ConsoleAtmApp.dll
+C:\Users\90553\source\repos\Veri_Uyg\ConsoleAtmApp\bin\Debug\netcoreapp3.1\ConsoleAtmApp.pdb
+C:\Users\90553\source\repos\Veri_Uyg\ConsoleAtmApp\obj\Debug\netcoreapp3.1\ConsoleAtmApp.csproj.AssemblyReference.cache
+C:\Users\90553\source\repos\Veri_Uyg\ConsoleAtmApp\obj\Debug\netcoreapp3.1\ConsoleAtmApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90553\source\repos\Veri_Uyg\ConsoleAtmApp\obj\Debug\netcoreapp3.1\ConsoleAtmApp.AssemblyInfoInputs.cache
+C:\Users\90553\source\repos\Veri_Uyg\ConsoleAtmApp\obj\Debug\netcoreapp3.1\ConsoleAtmApp.AssemblyInfo.cs
+C:\Users\90553\source\repos\Veri_Uyg\ConsoleAtmApp\obj\Debug\netcoreapp3.1\ConsoleAtmApp.csproj.CoreCompileInputs.cache
+C:\Users\90553\source\repos\Veri_Uyg\ConsoleAtmApp\obj\Debug\netcoreapp3.1\ConsoleAtmApp.dll
+C:\Users\90553\source\repos\Veri_Uyg\ConsoleAtmApp\obj\Debug\netcoreapp3.1\ConsoleAtmApp.pdb
+C:\Users\90553\source\repos\Veri_Uyg\ConsoleAtmApp\obj\Debug\netcoreapp3.1\ConsoleAtmApp.genruntimeconfig.cache
