@@ -7,14 +7,14 @@ namespace ConsoleAtmApp
     {
         static void Main(string[] args)
         {
-            int bakiye = 4500;
+            int bakiye = 7000;
 
-            Console.WriteLine("Bakiyeniz = " + bakiye);
+            Console.WriteLine("Bakiyeniz : " + bakiye);
         
-            Console.WriteLine("1. Para Çekme");
-            Console.WriteLine("2. Para Yatırma");
-            Console.WriteLine("3. Bakiye sorgulama");
-            Console.WriteLine("4. Kart İade");
+            Console.WriteLine("1- Para Çekme");
+            Console.WriteLine("2- Para Yatırma");
+            Console.WriteLine("3- Bakiye sorgulama");
+            Console.WriteLine("4- Kart İade");
             menu:
             Console.Write("\nİsleminizi Seciniz: ");
             int islem = Convert.ToInt32(Console.ReadLine());
